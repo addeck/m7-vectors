@@ -16,7 +16,7 @@ w <- z[11]
 q <- z[2:5]
 
 # Create a variable `len` that is equal to the length of your vector `q`
-len <- q
+len <- length(q)
 
 ### Bonus ###
 
